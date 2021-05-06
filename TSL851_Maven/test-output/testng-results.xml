@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="284" started-at="2020-09-21T10:20:47Z" finished-at="2020-09-21T10:20:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="284" started-at="2020-09-21T10:20:47Z" finished-at="2020-09-21T10:20:48Z">
+      <class name="Day11CSV.ReflectionExample">
+        <test-method status="PASS" signature="f()[pri:0, instance:Day11CSV.ReflectionExample@55b53d44]" name="f" duration-ms="129" started-at="2020-09-21T10:20:47Z" finished-at="2020-09-21T10:20:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Day11CSV.ReflectionExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
